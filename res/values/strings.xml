@@ -15,7 +15,12 @@
     </string-array>
     <string name="btStart">開始計時</string>
     <string name="btPause">暫停</string>
+    <string name="btStartAgain">再啟動</string>
     <string name="btStop">停止</string>
     <string name="itemClear">清除</string>
+    <string name="edt_no_number">請輸入時間</string>
+    <string name="edt_have_word">含數字以外的字元</string>
+    <string name="service_start">計時器開始動作</string>
+    <string name="service_stop">計時器已經停止</string>
 
 </resources>

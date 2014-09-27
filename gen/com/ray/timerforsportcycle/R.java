@@ -33,9 +33,9 @@ public final class R {
         public static final int action_settings=0x7f09000c;
         public static final int btn_Start=0x7f09000a;
         public static final int btn_Stop=0x7f09000b;
-        public static final int editText1=0x7f090004;
-        public static final int editText2=0x7f090007;
-        public static final int editText3=0x7f090002;
+        public static final int edt_cycle=0x7f090002;
+        public static final int edt_item1=0x7f090004;
+        public static final int edt_item2=0x7f090007;
         public static final int tableRow1=0x7f090001;
         public static final int tableRow2=0x7f090003;
         public static final int tableRow3=0x7f090006;
@@ -54,13 +54,18 @@ public final class R {
         public static final int app_name=0x7f050000;
         public static final int btPause=0x7f050008;
         public static final int btStart=0x7f050007;
-        public static final int btStop=0x7f050009;
+        public static final int btStartAgain=0x7f050009;
+        public static final int btStop=0x7f05000a;
         public static final int ctimes_unit=0x7f050004;
         public static final int cycletimes=0x7f050003;
+        public static final int edt_have_word=0x7f05000d;
+        public static final int edt_no_number=0x7f05000c;
         public static final int hello_world=0x7f050001;
-        public static final int itemClear=0x7f05000a;
+        public static final int itemClear=0x7f05000b;
         public static final int sItem1=0x7f050005;
         public static final int sItem2=0x7f050006;
+        public static final int service_start=0x7f05000e;
+        public static final int service_stop=0x7f05000f;
     }
     public static final class style {
         /** 
