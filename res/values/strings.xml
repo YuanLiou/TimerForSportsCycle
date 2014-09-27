@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">運動週期提示器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">設定</string>
+    <string name="cycletimes">週期</string>
+    <string name="ctimes_unit">次</string>
+    <string name="sItem1">項目一</string>
+    <string name="sItem2">項目二</string>
+    <string-array name="sTimeUnit">
+        <item>秒</item>
+        <item>分</item>
+        <item>時</item>
+    </string-array>
+    <string name="btStart">開始計時</string>
+    <string name="btPause">暫停</string>
+    <string name="btStop">停止</string>
+    <string name="itemClear">清除</string>
+
+</resources>
